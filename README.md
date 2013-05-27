@@ -1,4 +1,0 @@
-Projects
-========
-
-Personal projects
